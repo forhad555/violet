@@ -1,0 +1,132 @@
+@media only screen and (max-width : 767px) {
+    .navbar-light {
+        background-color: #000000;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .menu-shrink {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .slider-text h1 {
+        font-size: 25px;
+    }
+    .slider-text p {
+        font-size: 18px;
+    }
+    .home-slider button.owl-prev {
+        left: 15px;
+        top: 115px;
+        width: 35px;
+        height: 35px;
+        font-size: 14px !important;
+    }
+    .home-slider button.owl-next {
+        right: 15px;
+        top: 115px;
+        width: 35px;
+        height: 35px;
+        font-size: 14px !important;
+    }
+    .slider-btn {
+        padding: 13px 25px;
+        font-size: 13px;
+    }
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .ptb-100 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pt-100 {
+        padding-top: 50px;
+    }
+    .pb-70 {
+        padding-bottom: 20px;
+    }
+    
+    .section-title {
+        margin-bottom: 30px;
+    }
+    .about-text {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .custom-btn {
+        padding: 11px 25px;
+        font-size: 13px;
+    }
+    .about-btn {
+        margin-top: 25px;
+    }
+    .skill-card h3 {
+        margin: 15px 0 20px;
+    }
+    .counter-card {
+        padding-left: 0;
+        text-align: center;
+    }
+    .counter-card i {
+        position: inherit;
+        margin-bottom: 15px;
+        display: inline-block;
+    }
+    .feedback-header h3 {
+        font-size: 20px;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer ul {
+        margin: 15px 0 0;
+        text-align: center;
+    }
+    .profile-img {
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width : 576px) and (max-width : 767px) {
+
+}
+
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+    .custom-btn {
+        padding: 13px 30px;
+        font-size: 14px;
+    }
+    .about-btn {
+        margin-top: 20px;
+    }
+
+    .ptb-100 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pt-100 {
+        padding-top: 70px;
+    }
+    .pb-70 {
+        padding-bottom: 40px;
+    }
+    
+    .section-title {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1199px) {
+
+}
+
+@media only screen and (min-width : 1800px) {
+
+}
